@@ -24,3 +24,7 @@ Projecte grupal de Git i GitHub.
 ### Fase 2
 
 ### Fase 3
+
+#### Anthony
+- Verificat el funcionament final de l'script.
+- Preparada la branca de defensa per al merge definitiu.
