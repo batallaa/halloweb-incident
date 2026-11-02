@@ -12,8 +12,6 @@ Projecte grupal de Git i GitHub.
 - Investigades les branques de Biel i Anthony.
 - Verificat el contracte de dades.
 - Creat el dashboard de monitoratge del projecte.
-### Fase 1
-
 #### Biel
 - Creat l'esquema inicial de `data/ghost_hosts.csv`.
 - Camps inicials acordats: IP, Hostname, Nivell_Amenaca i Estat.
@@ -30,3 +28,6 @@ Projecte grupal de Git i GitHub.
 #### Pérez
 - Completada l'auditoria del projecte.
 - Dashboard preparat per a la versio final.
+#### Anthony
+- Verificat el funcionament final de l'script.
+- Preparada la branca de defensa per al merge definitiu.
