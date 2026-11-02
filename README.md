@@ -23,8 +23,16 @@ Projecte grupal de Git i GitHub.
 
 ### Fase 2
 
+#### Biel
+- Detectada la branca `feature/nightmare-code`.
+- Analitzat el codi sospitós de la branca.
+- Identificat el fragment que requereix aïllament o reversió.
+
 ### Fase 3
 
+#### Biel
+- Preparada la branca de dades per a integració final.
+- Verificada la compatibilitat del CSV amb el nou protocol.
 #### Pérez
 - Completada l'auditoria del projecte.
 - Dashboard preparat per a la versio final.
