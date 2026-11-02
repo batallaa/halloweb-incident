@@ -28,8 +28,6 @@ Projecte grupal de Git i GitHub.
 
 ### Fase 3
 
-### Fase 3
-
 #### Biel
 - Preparada la branca de dades per a integració final.
 - Verificada la compatibilitat del CSV amb el nou protocol.
