@@ -12,6 +12,11 @@ Projecte grupal de Git i GitHub.
 
 ### Fase 1
 
+#### Pérez
+- Investigades les branques de Biel i Anthony.
+- Verificat el contracte de dades.
+- Creat el dashboard de monitoratge del projecte.
+
 ### Fase 2
 
 ### Fase 3
