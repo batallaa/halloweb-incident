@@ -8,8 +8,6 @@ Projecte grupal de Git i GitHub.
 
 ### Fase 1
 
-### Fase 1
-
 #### Biel
 - Creat l'esquema inicial de `data/ghost_hosts.csv`.
 - Camps inicials acordats: IP, Hostname, Nivell_Amenaca i Estat.
