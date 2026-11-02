@@ -25,6 +25,9 @@ Projecte grupal de Git i GitHub.
 
 ### Fase 3
 
+#### Pérez
+- Completada l'auditoria del projecte.
+- Dashboard preparat per a la versio final.
 #### Anthony
 - Verificat el funcionament final de l'script.
 - Preparada la branca de defensa per al merge definitiu.
