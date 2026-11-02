@@ -1,0 +1,8 @@
+HALLOWEB NIGHTMARE CODE
+
+Aquest fitxer representa un fragment de codi infectat
+detectat durant l'incident.
+
+ESTAT: INFECTAT
+NIVELL: CRITIC
+ACCIO RECOMANADA: AILLAR I REVERTIR
