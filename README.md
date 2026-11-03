@@ -8,7 +8,7 @@ Projecte grupal de Git i GitHub.
 
 ## DOCUMENT
 
-[Document](https://docs.google.com/document/d/1qfNYDRalWm6NdZfDvg93zxc1DCCCxLEm/edit?usp=sharing&ouid=103710782733479906965&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/1gp86QXM6cuveOnzUY79NXx2jB6SjZox0/edit?usp=sharing&ouid=103710782733479906965&rtpof=true&sd=true)
 
 ### Fase 1
 
