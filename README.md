@@ -2,17 +2,19 @@
 
 Projecte grupal de Git i GitHub.
 
-## Membres
-
-Anthony Milla, Biel Pérez i Biel Batalla
-
-## Bitacola
-
-
-
 ## DOCUMENT
 
 [Document](https://docs.google.com/document/d/1gp86QXM6cuveOnzUY79NXx2jB6SjZox0/edit?usp=sharing&ouid=103710782733479906965&rtpof=true&sd=true)
+
+## Membres
+
+- Biel — Agent 1: Admin/Dades
+
+- Anthony — Agent 2: Scripting/Lògica
+
+- Pérez — Agent 3: Auditoria
+
+## Bitacola
 
 ### Fase 1
 
